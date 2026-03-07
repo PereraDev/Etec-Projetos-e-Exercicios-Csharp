@@ -1,0 +1,7 @@
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Hospedagem_Para_Hotal\Hospedagem_Para_Hotal\bin\Debug\Hospedagem_Para_Hotal.exe.config
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Hospedagem_Para_Hotal\Hospedagem_Para_Hotal\bin\Debug\Hospedagem_Para_Hotal.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Hospedagem_Para_Hotal\Hospedagem_Para_Hotal\bin\Debug\Hospedagem_Para_Hotal.pdb
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Hospedagem_Para_Hotal\Hospedagem_Para_Hotal\obj\Debug\Hospedagem_Para_Hotal.csproj.AssemblyReference.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Hospedagem_Para_Hotal\Hospedagem_Para_Hotal\obj\Debug\Hospedagem_Para_Hotal.csproj.CoreCompileInputs.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Hospedagem_Para_Hotal\Hospedagem_Para_Hotal\obj\Debug\Hospedagem_Para_Hotal.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Hospedagem_Para_Hotal\Hospedagem_Para_Hotal\obj\Debug\Hospedagem_Para_Hotal.pdb
