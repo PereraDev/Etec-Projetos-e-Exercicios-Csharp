@@ -1,0 +1,7 @@
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Aumento_De_Salario_No_Mes\Aumento_De_Salario_No_Mes\bin\Debug\Aumento_De_Salario_No_Mes.exe.config
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Aumento_De_Salario_No_Mes\Aumento_De_Salario_No_Mes\bin\Debug\Aumento_De_Salario_No_Mes.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Aumento_De_Salario_No_Mes\Aumento_De_Salario_No_Mes\bin\Debug\Aumento_De_Salario_No_Mes.pdb
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Aumento_De_Salario_No_Mes\Aumento_De_Salario_No_Mes\obj\Debug\Aumento_De_Salario_No_Mes.csproj.AssemblyReference.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Aumento_De_Salario_No_Mes\Aumento_De_Salario_No_Mes\obj\Debug\Aumento_De_Salario_No_Mes.csproj.CoreCompileInputs.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Aumento_De_Salario_No_Mes\Aumento_De_Salario_No_Mes\obj\Debug\Aumento_De_Salario_No_Mes.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Aumento_De_Salario_No_Mes\Aumento_De_Salario_No_Mes\obj\Debug\Aumento_De_Salario_No_Mes.pdb
