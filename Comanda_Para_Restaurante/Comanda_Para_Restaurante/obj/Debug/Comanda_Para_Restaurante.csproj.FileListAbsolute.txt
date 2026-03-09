@@ -1,0 +1,7 @@
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Comanda_Para_Restaurante\Comanda_Para_Restaurante\bin\Debug\Comanda_Para_Restaurante.exe.config
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Comanda_Para_Restaurante\Comanda_Para_Restaurante\bin\Debug\Comanda_Para_Restaurante.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Comanda_Para_Restaurante\Comanda_Para_Restaurante\bin\Debug\Comanda_Para_Restaurante.pdb
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Comanda_Para_Restaurante\Comanda_Para_Restaurante\obj\Debug\Comanda_Para_Restaurante.csproj.AssemblyReference.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Comanda_Para_Restaurante\Comanda_Para_Restaurante\obj\Debug\Comanda_Para_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Comanda_Para_Restaurante\Comanda_Para_Restaurante\obj\Debug\Comanda_Para_Restaurante.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Comanda_Para_Restaurante\Comanda_Para_Restaurante\obj\Debug\Comanda_Para_Restaurante.pdb
