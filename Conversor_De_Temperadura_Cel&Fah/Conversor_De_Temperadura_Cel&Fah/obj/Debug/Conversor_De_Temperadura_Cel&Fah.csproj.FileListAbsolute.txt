@@ -1,0 +1,7 @@
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Conversor_De_Temperadura_Cel&Fah\Conversor_De_Temperadura_Cel&Fah\bin\Debug\Conversor_De_Temperadura_Cel&Fah.exe.config
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Conversor_De_Temperadura_Cel&Fah\Conversor_De_Temperadura_Cel&Fah\bin\Debug\Conversor_De_Temperadura_Cel&Fah.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Conversor_De_Temperadura_Cel&Fah\Conversor_De_Temperadura_Cel&Fah\bin\Debug\Conversor_De_Temperadura_Cel&Fah.pdb
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Conversor_De_Temperadura_Cel&Fah\Conversor_De_Temperadura_Cel&Fah\obj\Debug\Conversor_De_Temperadura_Cel&Fah.csproj.AssemblyReference.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Conversor_De_Temperadura_Cel&Fah\Conversor_De_Temperadura_Cel&Fah\obj\Debug\Conversor_De_Temperadura_Cel&Fah.csproj.CoreCompileInputs.cache
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Conversor_De_Temperadura_Cel&Fah\Conversor_De_Temperadura_Cel&Fah\obj\Debug\Conversor_De_Temperadura_Cel&Fah.exe
+C:\Users\cross\OneDrive\Documentos\GitHub\Repositorios\Csharp\Conversor_De_Temperadura_Cel&Fah\Conversor_De_Temperadura_Cel&Fah\obj\Debug\Conversor_De_Temperadura_Cel&Fah.pdb
